@@ -1,0 +1,80 @@
+body {
+	background-color: rgb(10, 11, 26);
+	color: white;
+	font-family: arial;
+	color: rgb(30, 45, 255);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.infobox {
+	border: solid rgb(10, 11, 26) 5px;
+}
+
+.infobox {
+	border: solid #19ddff 2px;
+	border-radius: 20px;
+	width: 300px;
+	margin: 20px 15px;
+	text-align: center;
+	float: right;
+	font-family: Verdana;
+	padding: 15px;
+	background-color: #103036;
+	color: #19ddff;
+}
+
+.infobox hr {
+	background-color: red;
+}
+
+.infobox img {
+	height: 100%;
+	width: 100%;
+	border-radius: 8px;
+	border: solid #19ddff 1px;
+}
+
+.intitle {
+	font-family: Georgia;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	font-size: 30px;
+	border: solid 1px;
+	border-radius: 8px;
+	padding: 3px 8px;
+	background-color: #081314;
+}
+
+.maintopic {
+	font-style: italic;
+	border: solid 1px;
+	border-radius: 8px;
+	padding: 3px 8px;
+	background-color: #081314;
+}
+
+.md {
+	font-family: "Courier New";
+	margin: 2px;
+	text-align: left;
+	border-radius: 20px;
+	border: solid #19ddff 1px;
+	padding: 0px 15px;
+	margin: 18px 0px;
+	font-weight: bold;
+}
+
+.mp {
+	color: #d64fff;
+	background-color: #081314;
+	border: solid #d64fff 1px;
+	border-radius: 8px;
+	padding: 4px;
+	margin: 18px 0px;
+}
+
+.foott {
+	font-size: 14px;
+	letter-spacing: -.5px;
+	font-style: italic;
+}
